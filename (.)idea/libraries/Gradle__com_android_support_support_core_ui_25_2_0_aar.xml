@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:25.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8884c39d21dfacebe5b35997ad3edafa6c8635c7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8884c39d21dfacebe5b35997ad3edafa6c8635c7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/25.2.0/685200ba3b5abe5139836e6fe04c318e1d75b0e2/support-core-ui-25.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
